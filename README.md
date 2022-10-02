@@ -1,6 +1,6 @@
 # Get First Word From Myanmar Name
 
-Syllable breaker/boundary-segmentation for Myanmar name in Dart.
+Syllable breaker for Myanmar name in Dart.
 
 ## Usage
 ```Dart
@@ -18,9 +18,9 @@ print("Final result: \t\t ${result[0]}");
 
 Output
 ```
-Original text:       မင်းသစ်ထွန်း
-Before  result:     [မင်း, သစ်, ထွန်း]
-Final result:          မင်း
+Original text: မင်းသစ်ထွန်း
+Before  result: [မင်း, သစ်, ထွန်း]
+Final result: မင်း
 ```
 
 ## Credit
